@@ -1,0 +1,36 @@
+
+.picsr {
+    max-width: 50%;
+    text-align: center;
+    padding: 10px;
+    float:right;
+}
+
+.picsl {
+    max-width: 50%;
+    text-align: center;
+    padding: 10px;
+    float:left;
+}
+
+img {
+    max-width:50%;
+    height:auto;
+    object-fit: contain;
+}
+body{
+height: 900px;     
+width: 1000px;    
+}
+h1{
+border-color: aqua;
+background-color: deepskyblue;
+color: deeppink;
+text-align: center;    
+}
+h4{
+border-color: aquamarine;
+background-color: lightskyblue;
+color: hotpink;
+text-align: center; 
+}
